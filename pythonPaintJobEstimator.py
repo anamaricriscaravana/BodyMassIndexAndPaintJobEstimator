@@ -2,7 +2,7 @@
 #BSCpE 1-1
 
 #III - Programming Exercise
-#   Phython
+#   Python
 #   2. Paint Job Estimator
 
 def main():
