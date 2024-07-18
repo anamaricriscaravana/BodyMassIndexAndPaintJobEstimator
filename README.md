@@ -1,24 +1,15 @@
-# III-Programming-Exercise
+# Body Mass Index and Paint Job Estimator
 
-Create programs using Java, Python, and C++ language for each of the following problems. Submit screenshot of the code and output.
+This project is developed for a Programming Logic and Design subject, that involves creating programs in Java, Python, and C++ to solve specific problems. The exercises focus on applying fundamental programming concepts such as modular design, input handling, calculations, and output formatting.
 
-1. Body Mass Index
+# Problems
 
-Design a modular program that calculates and displays a person’s body mass index (BMI). The BMI is often used to determine whether a person with a sedentary lifestyle is overweight or underweight for his or her height. A person’s BMI is calculated with the following formula:
-BMI = Weight × 703 / (Height^2)
+1. Body Mass Index (BMI)
+
+- Description: Design a modular program that calculates and displays a person’s Body Mass Index (BMI). The BMI helps determine whether a person with a sedentary lifestyle is overweight or underweight for their height.
+- Formula: BMI = (weight(lb) x (height^2(in))) x 703
 
 2. Paint Job Estimator
 
-A painting company has determined that for every 115 square feet of wall space, one gallon of paint and eight hours of labor will be required. The company charges 20.00 per hour for labor. Design a modular program that asks the user to enter he square feet of wall space to be painted and the price of the paint per gallon.
-
-The program should display the following data:
-
-The number of gallons of paint required
-
-The hours of labor required
-
-The cost of the paint
-
-The labor charges
-
-The total cost of the paint job
+- Description: Design a modular program that estimates the resources needed for a paint job. The program asks the user to enter the square feet of wall space to be painted and the price of paint per gallon. It then calculates and displays the number of gallons of paint required, hours of labor needed, cost of paint, labor charges, and total cost of the paint job.
+- Details: 1 gallon of paint covers 115 square feet. 8 hours of labor required per gallon of paint. Labor costs $20.00 per hour.
