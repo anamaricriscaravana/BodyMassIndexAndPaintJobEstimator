@@ -1,1 +1,0 @@
-The number of gallon/s of paint required is {:.2f} gall
