@@ -12,4 +12,7 @@ This project is developed for a Programming Logic and Design subject, that invol
 2. Paint Job Estimator
 
 - Description: Design a modular program that estimates the resources needed for a paint job. The program asks the user to enter the square feet of wall space to be painted and the price of paint per gallon. It then calculates and displays the number of gallons of paint required, hours of labor needed, cost of paint, labor charges, and total cost of the paint job.
-- Details: 1 gallon of paint covers 115 square feet. 8 hours of labor required per gallon of paint. Labor costs $20.00 per hour.
+- Details:
+  <br/> 1 gallon of paint covers 115 square feet.
+  <br/> 8 hours of labor required per gallon of paint.
+  <br/> Labor costs $20.00 per hour.
